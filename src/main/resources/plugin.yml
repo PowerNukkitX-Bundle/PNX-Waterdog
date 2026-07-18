@@ -1,0 +1,7 @@
+name: PNX-Waterdog
+version: "1.0.0"
+main: org.powernukkitx.waterdog.WaterdogPlugin
+api: 3.0.0
+load: STARTUP
+author: PowerNukkitX
+description: "WaterdogPE proxy support for PowerNukkitX"
